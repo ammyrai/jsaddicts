@@ -1,0 +1,43 @@
+=== v1.0.9 ===
+- Changed header ADS to display from widget area
+- Fixed header cart issue
+- Improved demo import
+
+=== v1.0.8 ===
+- Improved some security issues
+- Added icon on news ticker
+- Added URL field for header ADS
+- Added icon on news ticker
+- Fixed homepage sidebar dropdown issue on Homepage Settings
+- Improved some CSS
+
+=== v1.0.7 ===
+- Customizer settings improvements
+- Added category post counter on category dropdown selectors
+- Improved SEO
+
+
+=== v1.0.6 ===
+- Minor CSS bug fixed
+
+=== v1.0.5 ===
+- Added demo importer plugin 
+- Added theme demo XML files
+
+=== v1.0.4 ===
+- Added companion plugin
+
+=== v1.0.3 ===
+- Minor bugs fixed
+
+=== v1.0.2 ===
+- Added descriptions on all of the files
+- Fixed some sanitization issues
+- Changed theme screenshot
+
+=== v1.0.1 ===
+- Minor CSS Bugs Fixed
+- Fixed some sanitization issues
+
+=== v1.0.0 ===
+- Initial release

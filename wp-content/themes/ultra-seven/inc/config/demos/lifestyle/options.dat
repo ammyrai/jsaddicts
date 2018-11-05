@@ -1,0 +1,15 @@
+a:4:{s:8:"template";s:11:"ultra-seven";s:4:"mods";a:23:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:9:"main-menu";i:16;s:8:"top-menu";i:14;s:11:"footer-menu";i:10;}s:18:"custom_css_post_id";i:321;s:25:"ultra_seven_header_banner";s:111:"https://demo.wpoperation.com/ultraseven/lifestyle/wp-content/uploads/sites/5/2018/07/ultra-11-header-banner.jpg";s:26:"ultra_seven_mobile_menu_bg";s:119:"https://demo.wpoperation.com/ultraseven/lifestyle/wp-content/uploads/sites/5/2018/03/averie-woodard-111823-unsplash.jpg";s:23:"ultra_seven_theme_color";s:7:"#004951";s:26:"ultra_seven_header_layouts";s:14:"ultra-header-1";s:23:"ultra_seven_cat_color_2";s:7:"#335e96";s:23:"ultra_seven_cat_color_3";s:7:"#1c8c30";s:23:"ultra_seven_cat_color_4";s:7:"#ce44b5";s:23:"ultra_seven_cat_color_5";s:7:"#102f30";s:23:"ultra_seven_cat_color_6";s:7:"#5841bf";s:23:"ultra_seven_cat_color_7";s:7:"#4fb6ea";s:23:"ultra_seven_cat_color_8";s:7:"#ce46b1";s:23:"ultra_seven_cat_color_9";s:7:"#2e6b89";s:22:"ultra_seven_slider_cat";i:7;s:23:"ultra_seven_feature_cat";i:8;s:11:"custom_logo";i:316;s:16:"header_textcolor";s:5:"blank";s:20:"ultra_seven_homepage";s:619:"[{"ultra_seven_enable_section":"on","ultra_seven_sidebar_layout":"rightsidebar","ultra_seven_sidebar_area":"home_sidebar_1","ultra_seven_section_area":"home_block_1","ultra_seven_section_txt_color":""},{"ultra_seven_enable_section":"on","ultra_seven_sidebar_layout":"nosidebar","ultra_seven_sidebar_area":"","ultra_seven_section_area":"home_block_2","ultra_seven_section_txt_color":"rgb(49, 134, 207)"},{"ultra_seven_enable_section":"on","ultra_seven_sidebar_layout":"rightsidebar","ultra_seven_sidebar_area":"home_sidebar_2","ultra_seven_section_area":"home_block_3","ultra_seven_section_txt_color":"rgb(28, 24, 24)"}]";s:23:"ultra_seven_ticker_show";s:4:"hide";s:25:"ultra_seven_topfooter_col";i:4;s:23:"ultra_seven_footer_text";s:19:"All Rights Reserved";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:669:".site-header.layout-two .nav-search-wrap {
+    background: #004951;
+    border-top: 1px solid #004951;
+    border-bottom: 1px solid #004951;
+    box-shadow: 0 3px 4px 0 rgba(0, 73, 81, 0.89);
+}
+.site-header.layout-two .main-navigation > ul > li > a, .side-menu-wrap i, .index-icon a, .main-navigation > ul > li.menu-item-has-children > a:before, .main-navigation ul ul > li.menu-item-has-children > a:before, .ultra-search i {
+    color: #ffffff;
+}
+.site-header.layout-two .main-navigation > ul > li.current-menu-item > a, .site-header.layout-two .main-navigation > ul > li > a:hover{
+	color: #afaaaafa;
+}
+.site-header.layout-two .menu-toggle span{
+	background: #fff;
+}";}
